@@ -15,3 +15,6 @@ Before running the script, make sure to install the necessary Python libraries:
 pip install tensorflow numpy pillow
  3. Run the prediction script:
 python predict.py
+
+### Training phase
+![model_training_result.png](https://github.comimg/user-attachments/assets/d6bb6298-d502-4b28-baaf-36a98e03d577)
